@@ -1,6 +1,6 @@
-# easy_media_browser
+# Easy Media Browser
 
-A new Flutter project.
+Browse media folders and play media files
 
 ## Getting Started
 
